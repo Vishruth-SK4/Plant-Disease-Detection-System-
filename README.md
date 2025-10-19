@@ -1,4 +1,4 @@
-Download the dataset from : https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+Download the dataset from : https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset.
 🌱 Plant Disease Detection System
 The Plant Disease Detection System is an AI-powered web application built using Streamlit and deep learning to identify plant diseases from leaf images. By analyzing uploaded leaf images, the system predicts the type of disease and provides detailed treatment recommendations in English, Kannada, and Hindi.
 This project aims to help farmers and agricultural researchers detect plant diseases early, prevent crop loss, and promote smart and sustainable agriculture.
